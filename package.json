@@ -29,15 +29,25 @@
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
   },
   "keywords": [
-    "react",
-    "gatsby",
-    "gatsby-theme",
-    "PWA",
-    "portfolio",
-    "showcase",
-    "minimal",
-    "animations",
-    "dark-mode",
-    "gdpr-compliant"
-  ]
+    "auto body",
+    "collision repair",
+    "dent repair",
+    "paintless dent removal",
+    "scratch repair",
+    "bumper repair",
+    "frame straightening",
+    "paint matching",
+    "panel replacement",
+    "glass replacement",
+    "windshield repair",
+    "interior restoration",
+    "upholstery repair",
+    "detailing",
+    "paint restoration",
+    "hail damage repair",
+    "rust repair",
+    "wheel repair",
+    "brake repair",
+    "exhaust system repair"
+]
 }

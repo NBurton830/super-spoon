@@ -1,22 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Welcome",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/auto-shop-front.png",
+    "alt": "Our Auto Body Shop"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/auto-repair.png",
+    "alt": "Auto Repair Icon"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "We're Your Trusted Auto Body Experts",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "We provide top-notch ",
+    "highlight": "auto repair services",
+    "suffix": " tailored to your needs."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+  "description": "With years of experience and a team of certified professionals, we offer a wide range of services including collision repair, car painting, and dent removal. We use cutting-edge technology and high-quality materials to ensure your car looks as good as new."
 }
